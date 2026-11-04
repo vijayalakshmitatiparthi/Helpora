@@ -1,7 +1,6 @@
 
 
 
-https://github.com/user-attachments/assets/8136be4a-8539-4d23-936a-1d8a3cf6d08f
 
 
 # Helpora Demo
